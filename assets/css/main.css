@@ -1,0 +1,75 @@
+#main{
+    width:1500px;
+    height: auto;
+    float:left;
+}
+
+.pawns {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px black;
+    position:absolute;
+}
+
+#board {
+    background:url(../images/Parchís.svg) no-repeat;
+    background-size:cover;
+    width: 1000px;
+    height: 1000px;
+    float:left;
+    margin-top:8px;
+}
+
+#dice {
+    background-image: url(../images/1.png);
+    background-size: contain;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+}
+
+#redpawn1 {
+	background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
+    top: 132px;
+    left: 135px;
+}
+
+#redpawn2 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
+    top: 132px;
+    left: 200px;    
+}
+#redpawn3 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
+    top: 200px;
+    left: 132px;    
+}
+#redpawn4 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
+    top: 200px;
+    left: 200px;    
+}
+
+#bluepawn1 {
+	background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
+    top: 132px;
+    left: 780px;
+}
+
+#bluepawn2 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
+    top: 132px;
+    left: 845px;    
+}
+#bluepawn3 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
+    top: 200px;
+    left: 780px;    
+}
+#bluepawn4 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
+    top: 200px;
+    left: 845px;    
+}
