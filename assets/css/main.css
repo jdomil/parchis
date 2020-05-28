@@ -32,44 +32,92 @@
 
 #redpawn1 {
 	background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
-    top: 132px;
+    top: 190px;
     left: 135px;
 }
 
 #redpawn2 {
     background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
-    top: 132px;
+    top: 190px;
     left: 200px;    
 }
 #redpawn3 {
     background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
-    top: 200px;
+    top: 260px;
     left: 132px;    
 }
 #redpawn4 {
     background-image: -webkit-radial-gradient(45px 45px, circle cover, red 80%, white 90%);
-    top: 200px;
+    top: 260px;
     left: 200px;    
 }
 
 #bluepawn1 {
 	background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
-    top: 132px;
+    top: 190px;
     left: 780px;
 }
 
 #bluepawn2 {
     background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
-    top: 132px;
+    top: 190px;
     left: 845px;    
 }
 #bluepawn3 {
     background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
-    top: 200px;
+    top: 260px;
     left: 780px;    
 }
 #bluepawn4 {
     background-image: -webkit-radial-gradient(45px 45px, circle cover, blue 80%, white 90%);
-    top: 200px;
+    top: 260px;
     left: 845px;    
+}
+
+#greenpawn1 {
+	background-image: -webkit-radial-gradient(45px 45px, circle cover, green 80%, white 90%);
+    top: 840px;
+    left: 135px;
+}
+
+#greenpawn2 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, green 80%, white 90%);
+    top: 840px;
+    left: 200px;    
+}
+#greenpawn3 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, green 80%, white 90%);
+    top: 905px;
+    left: 135px;    
+}
+#greenpawn4 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, green 80%, white 90%);
+    top: 905px;
+    left: 200px;    
+}
+
+#yellowpawn1 {
+	background-image: -webkit-radial-gradient(45px 45px, circle cover, yellow 80%, white 90%);
+    top: 840px;
+    left: 780px;
+}
+
+#yellowpawn2 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, yellow 80%, white 90%);
+    top: 840px;
+    left: 845px;    
+}
+#yellowpawn3 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, yellow 80%, white 90%);
+    top: 905px;
+    left: 780px;    
+}
+#yellowpawn4 {
+    background-image: -webkit-radial-gradient(45px 45px, circle cover, yellow 80%, white 90%);
+    top: 905px;
+    left: 845px;    
+}
+
+#player {
+    color: red;
 }
